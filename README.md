@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gopika Pasricha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gopika1909" alt="Gopika1909" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopika1909&label=Profile%20views&color=0e75b6&style=flat" alt="gopika1909" /> </p>
+<div style="display:flex">
+  <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+  </p>
 
 - 🌱 I’m currently learning **React.Js,Wordpress**
 
