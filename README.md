@@ -11,11 +11,11 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
   </p>
 
-- 🌱 I’m currently learning **React.Js,Wordpress**
+- 🌱 I’m currently learning **Data Structures and Algorithm in Java and Web Developement**
 
 - 👯 I’m looking to collaborate on **WebApp Projects, contributing to open-source, and connecting with fellow developers.**
 
-- 💬 Ask me about **Python,Node.js**
+- 💬 Ask me about **HTML, CSS, JS, SQL, DSA, Java**
 
 - 📫 How to reach me **gopikapasricha19@gmail.com**
 
