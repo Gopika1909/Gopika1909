@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 <h1 align="center">Hi 👋, I'm Gopika Pasricha</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=200&color=0EBDCA&center=true&width=435&lines=A+PASSIONATE+FRONTEND+DEVELOPER FROM INDIA;UI+Designer" alt="Typing SVG" /></a>
+<p> A Passionate Frontend Developer</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopika1909&label=Profile%20views&color=0e75b6&style=flat" alt="gopika1909" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gopika1909" alt="Gopika1909" /></a> </p>
