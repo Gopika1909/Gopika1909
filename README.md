@@ -34,9 +34,11 @@
 <br>
 <h2 align="center">GitHub Stats:</h2>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopika1909&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" &locale=en&layout=compact" alt="gopika1909" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gopika1909&show_icons=true&locale=en&layout=compact" alt="Gopika1909" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopika1909&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" &locale=en" alt="gopika1909" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gopika1909&show_icons=true&locale=en" alt="Gopika1909 " /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopika1909&" alt="gopika1909" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika1909&" alt="Gopika1909 " /></p>
+
+
 </div>
