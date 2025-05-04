@@ -27,7 +27,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/gopika-pasricha-722888259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopika-pasricha-722888259" height="30" width="40" /></a>
 <a href="https://instagram.com/gopika____pasricha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopika____pasricha__" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gopikapasricha19" target="blank"><img align="center" src="https://raw.githubusercontent.com/gopikapasricha19/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivangisikka20" height="30" width="40" /></a>
 </p>
 
 </p>
