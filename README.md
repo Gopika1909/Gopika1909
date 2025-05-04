@@ -8,7 +8,7 @@
 
 
 <div style="display:flex">
-  <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+
   </p>
 
 - 🌱 I’m currently learning **Next.Js, Typescript and Data Structures and Algorithm in Java**
