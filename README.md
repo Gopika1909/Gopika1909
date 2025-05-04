@@ -28,7 +28,6 @@
 <a href="https://linkedin.com/in/gopika-pasricha-722888259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopika-pasricha-722888259" height="30" width="40" /></a>
 <a href="https://instagram.com/gopika____pasricha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopika____pasricha__" height="30" width="40" /></a>
 <a target="_blank" href="https://leetcode.com/gopikapasricha19/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width=40px></a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/gopikapasricha19"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210201164
 </p>
 
 <br>
