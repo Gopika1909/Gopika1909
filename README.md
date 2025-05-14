@@ -63,6 +63,10 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gopika1909&show_icons=true&locale=en&layout=compact" alt="Gopika1909" /></p>
 
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Gopika1909&show_icons=true&locale=en&layout=compact" alt="Gopika1909" /></p>
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gopika1909&show_icons=true&locale=en" alt="Gopika1909 " /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika1909&" alt="Gopika1909 " /></p>
