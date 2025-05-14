@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.Js, Typescript and Data Structures and Algorithm in Java**
 
-- 👯 I’m looking to collaborate on **WebApp Projects, contributing to open-source, and connecting with fellow developers.**
+- 👯 I’m looking to collaborate on **WebApp Projects, contributing to open-source, and connecting with fellow developers**
 
 - 💬 Ask me about **Both Frontend and MERN Stack Development**
 
